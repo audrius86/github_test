@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/carwash" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github/github_test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/parduotuves_sandelys" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repo2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repo3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test_git/test1" vcs="Git" />
+  </component>
+</project>

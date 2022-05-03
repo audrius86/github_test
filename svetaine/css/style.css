@@ -1,0 +1,36 @@
+body{
+    margin: 0 auto;
+    width: 500px;
+    text-align: left;
+}
+
+.logout {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 50px;
+    margin-top: 20px;
+}
+
+#logout_link{
+text-decoration: none;
+    font-weight: bold;
+    padding: 1px;
+    color: #2b2bde;
+}
+
+#logout_link:hover{
+    text-decoration: underline;
+    font-weight: bold;
+    padding: 1px;
+}
+
+#logout{
+    color: red;
+}
+
+#footer{
+    display: flex;
+    justify-content: center;
+    margin-top: 30%;
+    font-size: 16px;
+}

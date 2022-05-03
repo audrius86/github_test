@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+}
+
+.register_table{
+    border-collapse: collapse;
+}
+
+th, td{
+    width:150px;
+    text-align:left;
+    padding:6px
+}
+
+td:last-child{
+    color: red;
+}
+
+#vienas{
+    padding-bottom: 50px;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button{
+    margin-top: 25px;
+    width: 100px;
+    height: 50px;
+    background-color: #18362d;
+    color: white;
+    font-weight: bold;
+}

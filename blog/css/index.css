@@ -1,0 +1,18 @@
+.main_container {
+    margin: 0 auto;
+    width: 600px;
+    height: 90vh;
+    background-color: #9dd9d9;
+}
+
+.section_header {
+    text-align: center;
+    padding-top: 20px;
+    font-family: "Arial Black";
+}
+
+.section_menu {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px;
+}
